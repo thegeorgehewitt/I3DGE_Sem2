@@ -1,0 +1,5 @@
+2022/06/30-13:27:43.246 a334 Reusing MANIFEST C:/Users/rippo/Documents/Work/Uni Work/IntroEngines/IntroSemester2/IntroSemester2/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/30-13:28:23.945 7488 Level-0 table #5: started
+2022/06/30-13:28:23.951 7488 Level-0 table #5: 6798 bytes OK
+2022/06/30-13:28:23.954 7488 Delete type=0 #3
+2022/06/30-13:28:23.954 7488 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
