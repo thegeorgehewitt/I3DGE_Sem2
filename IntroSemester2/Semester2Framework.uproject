@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{3EEEE9D2-46A9-A5D9-0702-529958B6A960}",
+	"EngineAssociation": "{1111623B-4512-3E4B-44A9-D3BF0FE89FBD}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -16,7 +16,7 @@
 		},
 		{
 			"Name": "Bridge",
-			"Enabled": true,
+			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Mac",
